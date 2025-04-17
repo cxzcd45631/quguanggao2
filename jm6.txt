@@ -1,6 +1,0 @@
-! cscs
-
-||*/static/resources/images/*.gif$image,app=com.jiaohua_browser  // 高优先级
-||$image,extension=gif,app=com.jiaohua_browser                   // 兜底低优先级
-
-
