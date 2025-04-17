@@ -1,6 +1,0 @@
-! cscs
-
-||*^$app=com.jiaohua_browser,media_type=gif,important
-
-
-
