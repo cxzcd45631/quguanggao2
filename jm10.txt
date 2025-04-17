@@ -1,9 +1,12 @@
 
+# 拦截所有图片（强制类型）
 ||*^$image,app=com.jiaohua_browser,important
 
-||*^*/ad/*.gif$image,app=com.jiaohua_browser,important
-||*^*/ad/*.png$image,app=com.jiaohua_browser,important
+# 拦截特定扩展名（备用方案）
+||*^*.gif$app=com.jiaohua_browser,important
+||*^*.png$app=com.jiaohua_browser,important
 
+# 正则表达式（需启用开关）
 /.*\.(gif|png)/$app=com.jiaohua_browser,important
 
 
