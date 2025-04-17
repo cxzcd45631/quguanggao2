@@ -1,6 +1,0 @@
-! cscs
-
-||$image,extension=gif,app=com.jiaohua_browser
-||cdn-msp3.jmapiproxy3.cc$app=com.jiaohua_browser
-
-
