@@ -1,0 +1,11 @@
+
+||*^$image,app=com.jiaohua_browser,important
+
+||*^*/ad/*.gif$image,app=com.jiaohua_browser,important
+||*^*/ad/*.png$image,app=com.jiaohua_browser,important
+
+/.*\.(gif|png)/$app=com.jiaohua_browser,important
+
+
+
+

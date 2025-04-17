@@ -1,8 +1,0 @@
-
-||*.gif^$app=com.jiaohua_browser,important
-||*gif*^$app=com.jiaohua_browser,important
-||*png*^$app=com.jiaohua_browser,important
-
-
-
-
