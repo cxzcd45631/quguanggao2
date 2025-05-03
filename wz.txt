@@ -1,0 +1,2 @@
+||down-update.qq.com^$app=com.tencent.tmgp.sgame
+|http*://*/down-update.qq.com*$app=com.tencent.tmgp.sgame
